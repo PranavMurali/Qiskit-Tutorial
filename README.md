@@ -1,8 +1,8 @@
-# Qiskit-Tutorial
-
+# [Qiskit](https://qiskit.org/)
+## It is an open source SDK for working with quantum computers at the level of pulses, circuits and application modules.
 ![](https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif)
 
-### Don't forget to make an [IBM Quantum Experience Account](https://quantum-computing.ibm.com/). account to run the code and try new things with Qiskit.
+### Don't forget to make an [IBM Quantum Experience account](https://quantum-computing.ibm.com/) to run the code and try new things with Qiskit.
 
 ![alt](../main/readme/IBM_Quan.png)
 
